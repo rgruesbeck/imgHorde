@@ -1,6 +1,6 @@
 # ImgHorde
-Server that stores images on both disk & ipfs.
-Images are then content addressable by either sha256 or ipfs hash
+- Server that stores images to IPFS and disk.
+- Images are content addressable by IPFS hash or sha256.
 
 ## Routes
 ### POST /images "store image"
